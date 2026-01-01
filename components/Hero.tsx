@@ -113,21 +113,21 @@ export function Hero() {
                 <QuoteCard
                   supplier="MineSupply Co."
                   verified={true}
-                  price="R2,450"
+                  price="$2,450"
                   delivery="3-5 days"
                   rating={4.8}
                 />
                 <QuoteCard
                   supplier="Global Mining Parts"
                   verified={true}
-                  price="R2,680"
+                  price="$2,680"
                   delivery="7-10 days"
                   rating={4.6}
                 />
                 <QuoteCard
                   supplier="Industrial Dynamics"
                   verified={false}
-                  price="$R,320"
+                  price="$,320"
                   delivery="14 days"
                   rating={4.2}
                 />
