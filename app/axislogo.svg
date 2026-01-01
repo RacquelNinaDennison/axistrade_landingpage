@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 438" fill="none">
+  <!-- thick circular arc (transparent background) -->
+  <path
+    d="M 424.258 190.157
+       A 146 146 0 1 1 314.843 80.742"
+    stroke="#FFFFFF"
+    stroke-width="44"
+    stroke-linecap="butt"
+  />
+
+  <!-- arrow head -->
+  <path
+    d="M405 93 L358 107 L384 114 L388 139 Z"
+    fill="#505050"
+  />
+</svg>
