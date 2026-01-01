@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 const team = [
   {
     name: "Tommy Jones Bompeti",
-    role: "Co-founder ",
+    role: "Co-founder",
     bio:"Commodity trading Experience. Sales & Marketing",
     mail: "tommybompeti@gmail.com"
   },
